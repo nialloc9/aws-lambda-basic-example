@@ -1,0 +1,3 @@
+Some common scenarios that are not covered in this basic example of setting up a serverless lambda function are listed below:
+
+To whitelist a lambda ip we can run it in a VPC with a static ip assigned. A tutorial can be found here: https://medium.com/@matthewleak/aws-lambda-functions-with-a-static-ip-89a3ada0b471

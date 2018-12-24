@@ -1,0 +1,7 @@
+npm i -g serverless
+
+serverless config --key ***** --secret **
+
+serverless create -t aws-nodejs
+
+serverless deploy --stage production
